@@ -17,7 +17,10 @@
 >
 ### [查看博客戳这里 👆](http://qiubaiying.github.io)
 
-
+## UPDATE BY VHWZ
+warning:
+disqus的使用方式似乎发生了变化, 原有模板无法正常加载disqus， 如果看到"We were unable to load Disqus.",尝试将_layouts/keynote.html与 _layouts/post.html中的dsq.src修改为 
+https://yourshortname.disqus.com/embed.js'， 其中 shortname是你自己在disqus官网上设置的
 
 ## 使用
 
