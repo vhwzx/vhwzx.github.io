@@ -22,4 +22,4 @@ E = MC^{2}
 $$
 
 
-test $\mathbf{z}_{0}=[x_{0}, y_{0}, \sigma_{0}]^{T}$
+test $\mathbf{z}_{0}=(x_{0}, y_{0}, \sigma_{0})^{T}$
