@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: vhwz的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
+title: vhwz Blog
+SEOTitle: vhwz的博客 | vhwz Blog
+header-img: img/milkyway.jpg
 email: vh_wz@outlook.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, vhwz"
+keyword: "Blog, vhwz"
 url: "http://vhwzis.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/vhwzis/vhwzis.github.io.git" # you code repository
