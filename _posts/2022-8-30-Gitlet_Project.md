@@ -253,7 +253,7 @@ checkout有两种功能：
 
 如果两个branch对某个文件进行了不同的修改，那么会产生冲突merge conflict, 此时要产生一个特殊的conflict文件，将两个文件的内容按如下格式记录：
 
-```
+```bash
 <<<<<<< HEAD
 contents of file in current branch
 =======
