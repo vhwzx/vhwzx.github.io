@@ -237,15 +237,6 @@ checkout有两种功能：
 
 根据状态对CWD中的文件和STAGE_AREA进行修改，修改规则比较复杂，如下表所示。
 
-| split  point | HEAD | other branch | CWD  | STAGE_AREA |
-| ------------ | ---- | ------------ | ---- | ---------- |
-| A            | A    | !A           | !A   | modfiy A   |
-| B            | !B   | B            | !B   |            |
-| C            | C    | X            | X    |            |
-| D            | D    | X            | X    | remove D   |
-| E            | X    | E            | X    |            |
-| F            | X    | X            | !F   | add F      |
-| X            | G    | X            | G    |            |
 
 可见，与split point 相比，如果两个branch中只有一个对某文件进行了修改，那么以修改后的文件为准。
 
