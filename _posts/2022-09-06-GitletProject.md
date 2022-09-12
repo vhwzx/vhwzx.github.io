@@ -17,7 +17,7 @@ init, add, commit, rm, log, global-log,  find, status, checkout, branch, rm-bran
 
 gitlet 出自 UCB CS61b课程项目，项目不仅有完善的[文档](https://sp21.datastructur.es/materials/proj/proj2/proj2#the-commands)，还可以在[这个网站](https://www.gradescope.com/courses/225347)上提交代码进行自动测试。 链接中为spring21对应的的资料，随着课程迭代，内容可能会改变。
 
-完成该项目不仅可以练习编程，还能增进对git的认识。以下给出我的实现，使用语言为 Java。
+完成该项目不仅可以练习编程，还能增进对git的认识。以下给出我的实现，使用语言为 Java, [代码链接](https://github.com/vhwzIs/cs61b/tree/master/proj2)。
 
 ### 基本原理
 
@@ -264,3 +264,8 @@ contents of file in given branch
 ```
 
 修改好之后进行一次自动commit。
+
+### 测试
+
+利用make进行测试
+
