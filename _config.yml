@@ -7,7 +7,7 @@ description: "Every failure is leading towards success."
 keyword: "Blog, vhwz"
 url: "http://vhwzx.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/vhwzis/vhwzis.github.io.git" # you code repository
+github_repo: "https://github.com/vhwzx/vhwzx.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: false                           # whether or not using Sidebar.
